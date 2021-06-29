@@ -1,0 +1,244 @@
+.avatarSolicitarServicoDW{
+    top: 5%;
+    left: 0%;
+}
+.statusSolicitacoesDW{
+    
+    color:rgb(75, 75, 75);
+    margin-left: 15%;
+
+}
+
+.aceitoSouNcartaoSolicitarServicoDW{
+    top: 15%;
+    left: 30%;
+}
+.textoPrecoPorCaoSolicitarServicoDW{
+    top: 18%;
+    left: 21%;
+}
+
+.preferenciasAvaliacaoMediaSolicitarServicoDW{
+    top: 30%;
+    left: 21%;
+}
+
+
+.valorTotalSolicitarServicoDW{
+    text-align: center;
+    top: 65%;
+    left: 30%;
+}
+.botaoSolicitarServicoDW{
+    top: 70%;
+    left: 25%;
+    width:50%;
+    
+}
+
+.box-informacoes{
+    width: 100%;
+}
+
+.informacoes
+{
+    display: flex;
+    flex-direction: row;
+
+    font-size: 15px;
+
+    margin-top: 30px;
+    margin-bottom: 10px;
+
+    margin-right: 10%;
+
+}
+
+.item-listaSolicitacoesDW
+{
+    width: 100%;
+
+    margin-bottom: 20px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+
+}
+
+.informacoes{
+    font-size: 15px;
+
+    display: flex;
+    flex-direction: row;
+
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.informacoesProprietario
+{
+    margin-left: 5%;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.nomeSolicitacoesDW
+{
+    width:100%;
+}
+
+.nomeProprietarioSolicitacoesDW
+{
+    float: left;
+}
+
+.linha1InfoSolicitacoesDW
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.iconeTextoPasseio
+{
+    margin-top: 10px;
+    display: flex;
+}
+
+.iconePasseioSolicitacoesDW
+{
+    margin-left: 0%;
+    display: flex;
+    align-items: center;
+}
+.textoPasseio
+{
+    margin-top: 10px;
+}
+
+.botaoAbrirMapaSolicitacoesDW
+{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+
+    height: 40px;
+    width: 135px;
+    border-radius: 25px;
+    background-color: #FFF;
+    border: solid 2px rgb(110, 110, 110);
+}
+.textoAbrirMapa
+{
+    font-size: 130%;
+}
+
+.valorTotalSolicitacoesDW
+{
+    margin-top: 10px;
+    float: right;
+}
+
+.valor-total{
+   width: 100%;
+}
+
+.avaliacao-dw
+{
+    margin-top: 10px;
+}
+
+.mostrarCaesSolicitacoesDW
+{
+    margin-top: 10px;
+    word-wrap: break-word;
+    max-width: 240px;
+}
+
+.botoes
+{
+
+    width: 100vw;
+
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.botoes div{
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+.botaoAceitarServicoSolicitacoesDW
+{
+    margin-right: 13px;
+
+    font-size: 18px;
+    color: white;
+    height: 50px;
+    width: 100px;
+    border-radius: 25px;
+    background-color: #47BE53;
+
+    transition: background-color 0.5s;
+}
+
+.botaoAceitarServicoSolicitacoesDW:hover
+{
+    background-color: #2e8537;
+}
+
+.botaoRecusarServicoSolicitacoesDW
+{
+    margin-right: 13px;
+
+    font-size: 18px;
+    color: white;
+    height: 50px;
+    width: 100px;
+    border-radius: 25px;
+    background-color: #E94F37;
+
+    transition: background-color 0.5s;
+}
+
+.botaoRecusarServicoSolicitacoesDW:hover
+{
+    background-color: #e4371d;
+}
+
+.botaoWhatsappSolicitacoesDW
+{
+    height: 50px;
+    width: 100px;
+    border-radius: 25px;
+    background-color: #FFF;
+    border: solid 2px rgb(110, 110, 110);
+}
+
+.botao-chamar-caes
+{
+    margin-top: 20px;
+
+    display: flex;
+    color: gray;
+    font-size: 105%;
+    background-color: transparent;
+    width: max-content;
+}
+
+
+.item-cao
+{
+    display: flex;
+    flex-direction: column;
+}
+

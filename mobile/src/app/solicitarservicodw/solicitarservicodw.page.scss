@@ -1,0 +1,182 @@
+.box-informacoes{
+
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.informacoes
+{
+    // width: 75%;
+
+    font-size: 15px;
+
+    display: flex;
+    flex-direction: row;
+
+    margin-top: 20px;
+}
+
+.avatarSolicitarServicoDW{
+    margin-right: 15px;
+}
+
+.statusSolicitarServicoDW{
+    
+    color:rgb(75, 75, 75);
+    // margin-left: 10px;
+    float: right;
+}
+
+.selecionarCaesSolicitarServicoDW{
+    text-align: center; 
+    margin-top: 50px;
+    font-size: 110%;
+}
+.caes-botao{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.valorTotalSolicitarServicoDW{
+    margin-top: 10%;
+    display: flex;
+    text-align: center;
+}
+.botaoSolicitarServicoDW{
+    margin-top: 5%;
+    width:50%
+    
+}
+.informacoes
+{
+    width: 75%;
+
+    font-size: 15px;
+
+    display: flex;
+    flex-direction: row;
+
+    margin-top: 20px;
+}
+
+.dogWalker
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+} //aquele teste la
+
+.item-lista
+{
+    margin-bottom: 20px;
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+}
+
+.informacoesDW
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.nomeStatus
+{
+    width: 245px;
+
+}
+
+.nomeDW
+{
+    max-width: 52%;
+    float: left;
+}
+
+.linha1Info
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.cartao-distancia
+{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+}
+
+.cartao
+{
+    display: flex;
+    align-items: center;
+}
+
+.distancia
+{
+    margin-top: 10px;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.status-distancia{
+
+    display: flex;
+    flex-direction: column;
+
+    font-size: 15px;
+    float: right;
+
+    margin-top: 20px;
+}
+
+.status-distancia .status{
+    float: right;
+}
+
+.preco-servico
+{
+    margin-top: 10px;
+}
+
+.avaliacao-dw
+{
+    margin-top: 10px;
+}
+
+.preferencias-dw
+{
+    margin-top: 10px;
+}
+
+#botao-fechar
+{   
+    display: flex;
+    align-items: center;
+    align-content: center;
+
+    background: white;
+    width: 50px;
+    height: 50px;
+    float: right;
+
+    border-radius: 25px;
+    margin-right: 10px;
+}
+
+#botao-fechar:hover{
+    background: rgb(194, 194, 194);
+    transition-duration: 0.5s;
+}
+
+
+#botao-fechar img{
+    margin-left: 10px;
+}
+

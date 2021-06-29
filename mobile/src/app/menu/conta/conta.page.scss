@@ -1,0 +1,33 @@
+#content{
+    height: 100vh;
+    // background-color: blue;
+}
+
+#foto-nome{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    width: 100vw;
+    margin-top: 20px;
+}
+
+#nome{
+    margin-top: 10px;
+}
+.inputs{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    width: 100%;
+}
+
+.dados{
+    margin-top: 40px;
+}
+
+.botao{
+    margin-top: 20px;
+    width: 50%;
+}
