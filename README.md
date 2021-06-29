@@ -49,4 +49,4 @@ Solução desenvolvida para o TCC do curso Técnico em Desenvolvimento de Sistem
 - [Lucas Silveira de C. Ramos](https://github.com/LSilveira028)
 
 ## 📝 Licença
-Projeto sob licença do MIT. Leia o [LICENSE](https://github.com/anderson314/PetFeliz-1/blob/anderson/LICENSE), para mais informações.
+Projeto sob licença do MIT. Leia o [LICENSE](https://github.com/anderson314/PetFeliz/blob/master/LICENCE.md), para mais informações.
